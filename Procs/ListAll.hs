@@ -1,8 +1,6 @@
 module Procs.ListAll
   where
 
-import System.IO
-import Data.List
 
 listall :: IO()
 listall = do

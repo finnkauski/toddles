@@ -6,7 +6,8 @@ import Procs.ListAll
 
 main :: IO()
 main = do
-  putStrLn "~*TODO Manager*~"
+  putStrLn "_____toddles______"
+  putStrLn "~* TODO Manager *~"
   putStrLn "0 - Add"
   putStrLn "1 - Remove"
   putStrLn "2 - List all"
